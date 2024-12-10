@@ -1,0 +1,22 @@
+[
+    {
+        "text": "2+2",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct_answer": "4"
+    },
+    {
+        "text": "integration of sin x",
+        "options": [
+            "-cos x",
+            "cos x",
+            "log |tanx|",
+            "log |cotx|"
+        ],
+        "correct_answer": "-cos x"
+    }
+]
