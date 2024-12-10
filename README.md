@@ -26,16 +26,11 @@ Prerequisites
 Python 3.x
 Tkinter (usually comes pre-installed with Python)
 
-Installation
-
-Clone the repository:
-Copygit clone https://github.com/yourusername/competitive-exam-quiz-app.git
-cd competitive-exam-quiz-app
-
 Ensure you have Python installed on your system
 
 Running the Application
-Copypython quiz_app.py
+python quiz.py
+
 How to Use
 Importing Questions
 
@@ -85,10 +80,3 @@ Below 60%: Keep Practicing 📚
 
 
 
-Contributing
-
-Fork the repository
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
