@@ -13,12 +13,6 @@ Immediate scoring
 Performance feedback
 
 
-User-Friendly Interface:
-
-Simple navigation between setup, quiz, and results screens
-Progress tracking during the quiz
-Performance evaluation with encouraging messages
-
 
 
 Prerequisites
@@ -31,7 +25,7 @@ Ensure you have Python installed on your system
 Running the Application
 python quiz.py
 
-How to Use
+#How to Use
 Importing Questions
 
 Click "Import Questions"
@@ -51,7 +45,7 @@ Select the correct answer
 
 Save the question set
 
-Taking a Quiz
+#Taking a Quiz
 
 Select a question set from the list
 Click "Load Selected Set"
